@@ -1,0 +1,73 @@
+@font-face {
+    font-family:Lino;
+    src: url(./Linotype\ Brewery\ Regular.ttf);
+}
+body {
+    background-color:#737d75 ;
+}
+h1 {
+    color: #dbe1e1;
+    font-family:Lino;
+    font-size: 8vw;
+    text-align: center;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.but {
+    text-decoration: none;
+    color: #dbe1e1;
+    font-family:Lino;
+    font-size: 2vw;
+}
+.img1 {
+    width: 500px;
+}
+.img2 {
+    width: 500px;
+}
+.img3 {
+    width: 500px;
+}
+.conteiner {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.card1 {
+    color:#d8e2df ;
+    font-family:Lino;
+    border: 3px solid #dbe1e1;
+}
+.card1text {
+    display: flex;
+    justify-content: space-between;
+}
+.card2 {
+    color:#d8e2df ;
+    font-family:Lino;
+    border: 3px solid #dbe1e1;
+}
+.card2text {
+    display: flex;
+    justify-content: space-between;
+}
+.card3 {
+    color:#d8e2df ;
+    font-family:Lino;
+    border: 3px solid #dbe1e1;
+}
+.card3text {
+    display: flex;
+    justify-content: space-between;
+}
+span {
+    margin-top: 20px;
+    margin-right:20px ;
+}
+h2 {
+    margin-left: 20px;
+}
+
